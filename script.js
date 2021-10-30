@@ -2,6 +2,19 @@ function imagehover1(){
     document.getElementById("imgHover1").src="https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/black-bear-crossing-log-in-woods-dan-friend.jpg";
 }
 
+function imagehover2(){
+    document.getElementById("imgHover2").src="https://i.natgeofe.com/n/079d885f-8e97-4e79-a6f1-d7578892399b/4403088.jpg";
+}
+
+function imagehover3(){
+    document.getElementById("imgHover3").src="https://media.istockphoto.com/photos/american-black-bear-picture-id482557323?k=20&m=482557323&s=612x612&w=0&h=3vT7SWk7nVk0v8wkANRHDGYycQk4_faGtlnOEXwleyg=";
+}
+
+function imagehover4(){
+    document.getElementById("imgHover4").src="https://www.transylvaniatimes.com/home/cms_data/dfault/photos/stories/id/9/1/41091/s_top";
+}
+
+
 function hide1(){
     document.getElementById("p1").innerHTML="";
 }
@@ -38,7 +51,7 @@ function show3(){
 }
 
 function show4(){
-    document.getElementById("p4").innerHTML="Hello";
+    document.getElementById("p4").innerHTML="American black bears are not endangered and are categorized as a species of least concern on the IUCN Red List of Threatened Species, which means the species is at low risk of extinction.";
 }
 
 function show5(){
